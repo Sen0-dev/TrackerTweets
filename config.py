@@ -1,11 +1,4 @@
-api_key= "xxxxxxxxxxxxxxxxxxxxxxxxxxx"
-api_key_secret= "xxxxxxxxxxxxxxxxxxxxxxxxx"
 
-bearer_token= "xxxxxxxxxxxxxxxxxxxxx"
+# Your bearer token
+bearer_token= "AAAAAAAAAAAAAAAAAAAAACNxaAEAAAAAN9jKVPHN3OPUoiN5ZG3hlda0IB4%3DAGOv6U3mO6eoqTEczBS43oAEPQG7gt9s9731Dp8Dm3SsPw0KHn"
 
-acces__token= "xxxxxxxxxxxxxxxxxx"
-acces__token_secret= "xxxxxxxxxxxxxxxxxxxx"
-
-
-my_email= "mail address"
-my_password= "pswd mail address"
