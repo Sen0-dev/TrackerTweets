@@ -1,4 +1,4 @@
 
 # Your bearer token
-bearer_token= "AAAAAAAAAAAAAAAAAAAAACNxaAEAAAAAN9jKVPHN3OPUoiN5ZG3hlda0IB4%3DAGOv6U3mO6eoqTEczBS43oAEPQG7gt9s9731Dp8Dm3SsPw0KHn"
+bearer_token= ""
 
