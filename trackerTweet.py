@@ -41,5 +41,5 @@ tracker_Tweets.check_new_Tweet()
 def get_user_id(username):
     return client.get_user(username = username)
 
-print(get_user_id("Ssayle_"))
+print(get_user_id("")) #Username 
 """
